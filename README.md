@@ -84,3 +84,5 @@ npm run dev
 ## Conclusion
 
 I made this project to learn JWT authentication using React and Express.js. This project helped me understand user login, authentication and protected routes in a simple way.
+
+I made this project to learn JWT authentication using React and Express.js. This project helped me understand user login, authentication and protected routes in a simple way.
